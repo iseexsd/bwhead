@@ -1,0 +1,9 @@
+[
+{
+  "modid": "bwhead",
+  "name": "BWHead",
+  "description": "shows bedwars stats over head (s/o to ElderEnt for being the first use)",
+  "version": "${version}",
+  "mcversion": "${mcversion}"
+}
+]
